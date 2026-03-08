@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Passwort-Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="wrap">
+    <h1>Passwort-Generator</h1>
+    <p>Erzeugt lokal im Browser ein zufälliges Passwort. Keine Daten werden übertragen.</p>
+
+    <label for="length">Länge</label>
+    <input id="length" type="number" min="8" max="64" value="20">
+
+    <button id="generate">Generieren</button>
+
+    <textarea id="output" rows="4" readonly placeholder="Passwort erscheint hier..."></textarea>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
