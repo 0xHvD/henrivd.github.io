@@ -7,7 +7,7 @@ repository: "henrivd/henrivd.github.io"
 locale: "de-DE"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "air"
 
 search: true
 
@@ -26,11 +26,15 @@ plugins:
 
 author:
   name: "Henri van Dorsten"
-  bio: "IT Security Consultant"
+  bio: "IT Security Consultant · Active Directory · Entra ID"
+  location: "Deutschland"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/henrivd"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"
 
 footer:
   links:
@@ -54,3 +58,4 @@ defaults:
     values:
       layout: single
       author_profile: false
+      classes: wide
