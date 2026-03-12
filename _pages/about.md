@@ -1,13 +1,13 @@
 ---
-title: "Über mich"
+title: "About"
 permalink: /about/
 layout: single
 ---
 
-Ich arbeite im Bereich IT-Sicherheit mit Fokus auf Active Directory, Tiering, Härtung und Security Assessments.
+I work in IT security with a focus on Active Directory, tiering, hardening, and security assessments.
 
-Auf dieser Website veröffentliche ich:
+On this site I publish:
 
-- Blogbeiträge
-- technische Notizen
-- kleine browserbasierte Tools
+- Blog posts
+- Technical notes
+- Small browser-based tools

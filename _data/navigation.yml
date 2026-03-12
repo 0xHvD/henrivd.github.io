@@ -1,9 +1,9 @@
 main:
-  - title: "Start"
+  - title: "Home"
     url: /
   - title: "Blog"
     url: /blog/
   - title: "Tools"
     url: /tools/
-  - title: "Über mich"
+  - title: "About"
     url: /about/

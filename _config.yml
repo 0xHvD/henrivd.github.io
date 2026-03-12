@@ -1,10 +1,10 @@
 title: "henrivd"
 name: "Henri van Dorsten"
-description: "Blog, Security-Notizen und kleine Tools"
+description: "Blog, Security Notes and small Tools"
 url: "https://henrivd.github.io"
 baseurl: ""
 repository: "henrivd/henrivd.github.io"
-locale: "de-DE"
+locale: "en-US"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
@@ -27,11 +27,14 @@ plugins:
 author:
   name: "Henri van Dorsten"
   bio: "IT Security Consultant · Active Directory · Entra ID"
-  location: "Deutschland"
+  location: "Germany"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/henrivd"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/henri-van-dorsten-180a7b23a/"
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"

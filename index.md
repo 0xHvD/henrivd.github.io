@@ -4,31 +4,31 @@ title: "Henri van Dorsten"
 author_profile: true
 ---
 
-IT Security Consultant mit Fokus auf **Active Directory**, Tiering, Härtung und Security Assessments.
+IT Security Consultant focused on **Active Directory**, tiering, hardening, and security assessments.
 
-Auf dieser Website veröffentliche ich Beiträge, Notizen und kleine Tools zu Themen rund um IT-Sicherheit.
+On this site I publish posts, notes, and small tools on IT security topics.
 
 ---
 
 ## 📝 Blog
 
-Technische Beiträge und Notizen zu IT-Security-Themen.
+Technical posts and notes on IT security topics.
 
-→ [Zum Blog](/blog/)
+→ [Go to Blog](/blog/)
 
 ---
 
 ## 🛠️ Tools
 
-Kleine browserbasierte Utilities – alle laufen lokal, ohne Server-Kommunikation.
+Small browser-based utilities — all run locally, no data transmitted.
 
-→ [Zu den Tools](/tools/)
+→ [Go to Tools](/tools/)
 
 ---
 
-## Themen
+## Topics
 
 - 🏛️ Active Directory Security
-- 🔐 Tiering und privilegierte Identitäten
+- 🔐 Tiering & Privileged Identities
 - ☁️ Entra ID / Azure AD
 - 🚨 Incident Response Readiness

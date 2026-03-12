@@ -4,6 +4,6 @@ permalink: /tools/
 layout: single
 ---
 
-Hier findest du kleine browserbasierte Tools – alle laufen lokal im Browser, ohne Server-Kommunikation.
+Small browser-based utilities — all run locally, no data is transmitted.
 
-- [Passwort-Generator](/tools/passwort-generator/)
+- [Password Generator](/tools/passwort-generator/)

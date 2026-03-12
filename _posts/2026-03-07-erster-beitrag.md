@@ -1,5 +1,5 @@
 ---
-title: "Mein erster Beitrag"
+title: "My First Post"
 date: 2026-03-07
 categories:
   - Blog
@@ -8,16 +8,16 @@ tags:
   - Active Directory
 ---
 
-# Mein erster Beitrag
+# My First Post
 
-Hier schreibst du deinen Inhalt.
+Write your content here.
 
-## Ziel
+## Goal
 
-Beschreibe kurz, worum es in diesem Beitrag geht.
+Briefly describe what this post is about.
 
-## Erkenntnisse
+## Key Takeaways
 
-- Punkt 1
-- Punkt 2
-- Punkt 3
+- Point 1
+- Point 2
+- Point 3
